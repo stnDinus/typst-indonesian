@@ -1,0 +1,6 @@
+#:schema https://www.schemastore.org/typst.json
+[package]
+name = "indonesian"
+entrypoint = "lib.typ"
+description = "Translations for Bahasa Indonesia"
+version = "0.0.1"
