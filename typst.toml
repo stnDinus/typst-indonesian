@@ -2,5 +2,7 @@
 [package]
 name = "indonesian"
 entrypoint = "lib.typ"
+authors = ["@stnDinus"]
+license = "GPL-3.0-only"
 description = "Translations for Bahasa Indonesia"
 version = "0.0.1"
